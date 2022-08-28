@@ -2,10 +2,10 @@
 
 - Please view here for demo: https://devpost.com/software/re-station-4oa6hj
 
-1. Problem Statement
+# 1. Problem Statement
 Due to the COVID-19 pandemic, working from home has been the norm. However, a large number of people admitted that they find it difficult for them to work online. Our team has identified three main problems that employees face when working remotely, which lower their productivity.
 
-1.1 Lack of interaction among colleagues
+# #1.1 Lack of interaction among colleagues
 Communication is not as easy remotely as it is face-to-face because more work is required to keep up casual conversations, using online conference apps like Zoom, Google Meet, e.t.c. Additionally, team-based projects are discouraged due to ineffective communication and a lack of task-tracking platforms. As a result, it may leave the employees feeling isolated from their team and company, especially if they are newly employed (Milana Virtanen, 2020)
 
 1.2 Distraction
